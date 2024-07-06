@@ -1,1 +1,1 @@
-Fatal error: Uncaught mysqli_sql_exception: Table 'cadastro.usuarios' doesn't exist in C:\xampp\htdocs\aula_3\cadastro.php:35 Stack trace: #0 C:\xampp\htdocs\aula_3\cadastro.php(35): mysqli->prepare('INSERT INTO usu...') #1 {main} thrown in C:\xampp\htdocs\aula_3\cadastro.php on line 35
+// Fatal error: Uncaught mysqli_sql_exception: Table 'cadastro.usuarios' doesn't exist in C:\xampp\htdocs\aula_3\cadastro.php:35 Stack trace: #0 C:\xampp\htdocs\aula_3\cadastro.php(35): mysqli->prepare('INSERT INTO usu...') #1 {main} thrown in C:\xampp\htdocs\aula_3\cadastro.php on line 35
